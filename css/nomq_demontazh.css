@@ -10,23 +10,22 @@
 
 	#page
 	{
-		min-height: 882px;
-		padding-top: 1px;
+		min-height: 883px;
 		padding-bottom: 179px;
 		max-width: 1500px;
 	}
 
-	#pu596
+	#u596
 	{
-		width: 93.34%;
-		margin-left: 3.34%;
+		width: 1400px;
+		margin-left: -700px;
 	}
 
 	#slideshowu668
 	{
 		height: 254px;
-		margin-right: -10000px;
-		margin-top: 200px;
+		margin-top: 201px;
+		left: -700px;
 	}
 
 	#u673,#u678,#u787,#u807
@@ -57,13 +56,26 @@
 		left: 1370px;
 	}
 
+	#pu839
+	{
+		margin-top: 111px;
+		width: 93.2%;
+		margin-left: 3.34%;
+	}
+
+	#u839
+	{
+		min-height: 60px;
+		width: 4.37%;
+		margin-left: 35.27%;
+	}
+
 	#menuu219
 	{
-		z-index: 62;
-		margin-right: -10000px;
-		margin-top: 191px;
-		width: 85.08%;
-		left: 8.15%;
+		z-index: 59;
+		margin-top: 21px;
+		width: 85.2%;
+		margin-left: 8.23%;
 	}
 
 	#u220
@@ -95,23 +107,13 @@
 		left: 80.11%;
 	}
 
-	#u839
+	#pu665-26
 	{
-		min-height: 60px;
-		margin-right: -10000px;
-		margin-top: 110px;
-		width: 4.36%;
-		left: 35.22%;
+		margin-top: 228px;
+		width: 100%;
 	}
 
-	#pu665-29
-	{
-		margin-top: -1px;
-		width: 93.2%;
-		margin-left: 3.34%;
-	}
-
-	#u665-29
+	#u665-26
 	{
 		width: 18.39%;
 	}
@@ -125,8 +127,4 @@
 		left: 19.32%;
 	}
 
-	#u596,#u596_img
-	{
-		width: 100%;
-	}
 

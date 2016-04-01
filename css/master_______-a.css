@@ -51,13 +51,6 @@
 	line-height: 22px;
 }
 
-#u839,#u678,#u787,#u807
-{
-	border-width: 0px;
-	background-color: transparent;
-	border-color: transparent;
-}
-
 #u596,#u220,#u227,#u265,#u286,#u307,#u673,#u669
 {
 	background-color: transparent;
@@ -104,7 +97,7 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u665-29
+#u665-26
 {
 	text-indent: 2px;
 	text-align: center;
@@ -116,30 +109,21 @@
 	line-height: 29px;
 }
 
-#u665-4,#u665-8,#u665-12
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u665-2,#u665-6,#u665-10
-{
-	font-size: 30px;
-	line-height: 36px;
-}
-
-#u665-3,#u665-7,#u665-11
-{
-	line-height: 29px;
-}
-
-#u665-14,#u665-19
+#u665-11,#u665-16
 {
 	letter-spacing: 5px;
 }
 
-#u665-20,#u665-21,#u665-23,#u665-24,#u665-26
+#u665-17,#u665-18,#u665-20,#u665-21,#u665-23
 {
 	color: #A65224;
+}
+
+#u678,#u787,#u807,#u839
+{
+	border-width: 0px;
+	background-color: transparent;
+	border-color: transparent;
 }
 
 
