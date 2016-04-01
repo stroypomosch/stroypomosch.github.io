@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1459538560661">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_______-a.css" crc="3972302564" ref="index:demontazh:materials:musor:dop"/>
+    <file name="nomq_preview_master_______-a.css" crc="321525473" ref="index:demontazh:materials:musor:dop"/>
+    <file name="123.css" crc="219875066" ref="123"/>
+    <file name="index.css" crc="4249364725" ref="index"/>
+    <file name="nomq_index.css" crc="3835782414" ref="index"/>
+    <file name="demontazh.css" crc="10438795" ref="demontazh"/>
+    <file name="nomq_demontazh.css" crc="200843291" ref="demontazh"/>
+    <file name="materials.css" crc="4240844277" ref="materials"/>
+    <file name="nomq_materials.css" crc="4096478488" ref="materials"/>
+    <file name="musor.css" crc="4103344395" ref="musor"/>
+    <file name="nomq_musor.css" crc="60792663" ref="musor"/>
+    <file name="dop.css" crc="3925431031" ref="dop"/>
+    <file name="nomq_dop.css" crc="522171699" ref="dop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:musor:demontazh:dop:materials:123"/>
+    <file name="museutils.js" crc="531812214" ref="index:musor:demontazh:dop:materials:123"/>
+    <file name="whatinput.js" crc="84559013" ref="index:musor:demontazh:dop:materials:123"/>
+    <file name="webpro.js" crc="4156477058" ref="index:musor:demontazh:dop:materials"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index:musor:demontazh:dop:materials"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:musor:demontazh:dop:materials"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index:musor:demontazh:dop:materials"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:musor:demontazh:dop:materials"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:musor:demontazh:dop:materials:123"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:musor:demontazh:dop:materials:123"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:musor:demontazh:dop:materials"/>
+  </folder>
+  <folder name="images">
+    <file name="27_bg_fon.jpg" crc="129648655" ref="index:musor:demontazh:dop:materials"/>
+    <file name="шапка2.png" crc="387007131" seo="true" ref="index:musor:demontazh:dop:materials"/>
+    <file name="demontazh-crop-u678.jpg" crc="4168014067" ref="index:musor:demontazh:dop:materials"/>
+    <file name="blank.gif" crc="4208392903" ref="index:musor:demontazh:dop:materials"/>
+    <file name="gaz-crop-u787.jpg" crc="3915316519" ref="index:musor:demontazh:dop:materials"/>
+    <file name="service-crop-u807.jpg" crc="279853160" ref="index:musor:demontazh:dop:materials"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4159640260" seo="true" mt="1459538552872" redirect="true"/>
+  <file name="musor.html" crc="4214676487" seo="true" mt="1459538554802" redirect="true"/>
+  <file name="demontazh.html" crc="3975156385" seo="true" mt="1459538556637" redirect="true"/>
+  <file name="dop.html" crc="4061099498" seo="true" mt="1459538558338" redirect="true"/>
+  <file name="materials.html" crc="4282224083" seo="true" mt="1459538559914" redirect="true"/>
+  <file name="123.html" crc="3781811184" seo="true" mt="1459371523186" redirect="true"/>
+</manifest>
