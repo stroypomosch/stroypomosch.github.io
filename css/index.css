@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #2268DC;
+	color: #0000F6;
+	background-color: #96C710;
 }
 
 #page
@@ -17,14 +17,14 @@
 
 #u596
 {
-	left: 50%;
 	z-index: 2;
-	position: fixed;
-	top: 1px;
+	position: relative;
+	margin-left: 50%;
 }
 
 #menuu219
 {
+	z-index: 59;
 	position: relative;
 }
 
@@ -69,7 +69,6 @@
 
 #slideshowu668
 {
-	margin-right: -10000px;
 	z-index: 30;
 	position: relative;
 	width: 0.01px;
@@ -168,7 +167,6 @@
 #pu839
 {
 	margin-right: -10000px;
-	padding-bottom: 0px;
 }
 
 #u839
@@ -262,17 +260,24 @@ body
 		max-width: 1500px;
 	}
 
+	#pu596
+	{
+		margin-right: -10000px;
+		margin-top: 1px;
+		width: 93.34%;
+		margin-left: 3.34%;
+	}
+
 	#u596
 	{
 		width: 1400px;
-		margin-left: -700px;
+		left: -700.0000000000001px;
 	}
 
 	#slideshowu668
 	{
 		height: 254px;
-		margin-top: 201px;
-		left: -700px;
+		left: -700.0000000000001px;
 	}
 
 	#u673,#u678,#u787,#u807
@@ -305,6 +310,7 @@ body
 
 	#pu839
 	{
+		padding-bottom: 0px;
 		margin-top: 111px;
 		width: 87.07%;
 		margin-left: 3.34%;
@@ -319,7 +325,6 @@ body
 
 	#menuu219
 	{
-		z-index: 59;
 		margin-top: 21px;
 		width: 91.2%;
 		margin-left: 8.81%;
@@ -400,17 +405,24 @@ body
 		max-width: 1440px;
 	}
 
+	#pu596
+	{
+		margin-right: -10000px;
+		margin-top: 1px;
+		width: 93.55%;
+		margin-left: 3.23%;
+	}
+
 	#u596
 	{
 		width: 1346px;
-		margin-left: -672px;
+		left: -672.4999999999999px;
 	}
 
 	#slideshowu668
 	{
 		height: 254px;
-		margin-top: 193px;
-		left: -673px;
+		left: -673.4999999999999px;
 	}
 
 	#u673,#u678,#u787,#u807
@@ -441,19 +453,25 @@ body
 		left: 1316px;
 	}
 
-	#u665-26
+	#pu839
 	{
-		margin-top: 447px;
-		width: 17.16%;
-		left: 3.34%;
+		margin-top: 97px;
+		width: 86.46%;
+		margin-left: 3.34%;
+	}
+
+	#u839
+	{
+		min-height: 65px;
+		width: 6.27%;
+		margin-left: 38.24%;
 	}
 
 	#menuu219
 	{
-		left: -50%;
-		margin-left: 571.68px;
-		width: 100%;
-		max-width: 1143px;
+		margin-top: 22px;
+		width: 91.81%;
+		margin-left: 8.12%;
 	}
 
 	#u220
@@ -485,35 +503,23 @@ body
 		left: 80.14%;
 	}
 
-	#menuu219-wrapper
+	#pu665-26
 	{
-		position: fixed;
-		top: 184px;
-		z-index: 59;
-		left: 50%;
-		margin-left: -571px;
-		width: 79.38%;
-		max-width: 1143px;
+		margin-top: 229px;
+		width: 97.52%;
 	}
 
-	#pu839
+	#u665-26
 	{
-		margin-top: 97px;
-		width: 58.41%;
-		margin-left: 29.31%;
-	}
-
-	#u839
-	{
-		min-height: 65px;
-		width: 9.28%;
-		margin-left: 12.13%;
+		width: 20.35%;
 	}
 
 	#u659
 	{
-		margin-top: 294px;
-		width: 99.77%;
+		margin-right: -10000px;
+		margin-top: 9px;
+		width: 69.12%;
+		left: 30.81%;
 	}
 
 	#u660-33
@@ -546,12 +552,13 @@ body
 	#u596
 	{
 		width: 1275px;
-		margin-left: -637px;
+		margin-right: -10000px;
+		margin-top: 1px;
+		left: -637px;
 	}
 
 	#menuu219
 	{
-		z-index: 59;
 		margin-right: -10000px;
 		margin-top: 178px;
 		width: 93.34%;
@@ -590,6 +597,7 @@ body
 	#slideshowu668
 	{
 		height: 254px;
+		margin-right: -10000px;
 		margin-top: 183px;
 		left: -638px;
 	}
@@ -632,6 +640,7 @@ body
 
 	#pu839
 	{
+		padding-bottom: 0px;
 		margin-top: 92px;
 		width: 58.42%;
 		margin-left: 29.36%;
@@ -680,12 +689,13 @@ body
 	#u596
 	{
 		width: 1195px;
-		margin-left: -597px;
+		margin-right: -10000px;
+		margin-top: 1px;
+		left: -597px;
 	}
 
 	#menuu219
 	{
-		z-index: 59;
 		margin-right: -10000px;
 		margin-top: 160px;
 		width: 93.52%;
@@ -724,6 +734,7 @@ body
 	#slideshowu668
 	{
 		height: 253px;
+		margin-right: -10000px;
 		margin-top: 172px;
 		left: -598px;
 	}
@@ -767,6 +778,7 @@ body
 
 	#pu839
 	{
+		padding-bottom: 0px;
 		margin-top: 86px;
 		width: 58.44%;
 		margin-left: 29.3%;
@@ -815,12 +827,13 @@ body
 	#u596
 	{
 		width: 898px;
-		margin-left: -449px;
+		margin-right: -10000px;
+		margin-top: 1px;
+		left: -449px;
 	}
 
 	#menuu219
 	{
-		z-index: 59;
 		margin-right: -10000px;
 		margin-top: 129px;
 		width: 93.56%;
@@ -859,6 +872,7 @@ body
 	#slideshowu668
 	{
 		height: 184px;
+		margin-right: -10000px;
 		margin-top: 163px;
 		left: -449px;
 	}
@@ -902,6 +916,7 @@ body
 
 	#pu839
 	{
+		padding-bottom: 0px;
 		margin-top: 65px;
 		width: 58.42%;
 		margin-left: 29.32%;

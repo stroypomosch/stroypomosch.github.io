@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1459539847566">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="123.com" resolutions="1x" timestamp="1459540174229">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_______-a.css" crc="42927866" ref="index:demontazh:materials:musor:dop"/>
     <file name="nomq_preview_master_______-a.css" crc="321525473" ref="index:demontazh:materials:musor:dop"/>
     <file name="123.css" crc="219875066" ref="123"/>
-    <file name="index.css" crc="3995232476" ref="index"/>
-    <file name="nomq_index.css" crc="25945990" ref="index"/>
-    <file name="demontazh.css" crc="3819188387" ref="demontazh"/>
-    <file name="nomq_demontazh.css" crc="3785888894" ref="demontazh"/>
-    <file name="materials.css" crc="4263459927" ref="materials"/>
-    <file name="nomq_materials.css" crc="4280915541" ref="materials"/>
-    <file name="musor.css" crc="3922809287" ref="musor"/>
-    <file name="nomq_musor.css" crc="4046112079" ref="musor"/>
-    <file name="dop.css" crc="193601498" ref="dop"/>
-    <file name="nomq_dop.css" crc="3946008498" ref="dop"/>
+    <file name="index.css" crc="4137076496" ref="index"/>
+    <file name="nomq_index.css" crc="3899284163" ref="index"/>
+    <file name="demontazh.css" crc="153301032" ref="demontazh"/>
+    <file name="nomq_demontazh.css" crc="504346151" ref="demontazh"/>
+    <file name="materials.css" crc="203731973" ref="materials"/>
+    <file name="nomq_materials.css" crc="4125256997" ref="materials"/>
+    <file name="musor.css" crc="248171680" ref="musor"/>
+    <file name="nomq_musor.css" crc="43798063" ref="musor"/>
+    <file name="dop.css" crc="4140523713" ref="dop"/>
+    <file name="nomq_dop.css" crc="5176659" ref="dop"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:musor:demontazh:dop:materials:123"/>
@@ -38,10 +38,10 @@
     <file name="service-crop-u807.jpg" crc="279853160" ref="index:musor:demontazh:dop:materials"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="479848824" seo="true" mt="1459539840470" redirect="true"/>
-  <file name="musor.html" crc="160257951" seo="true" mt="1459539842155" redirect="true"/>
-  <file name="demontazh.html" crc="516571097" seo="true" mt="1459539844043" redirect="true"/>
-  <file name="dop.html" crc="399064020" seo="true" mt="1459539845714" redirect="true"/>
-  <file name="materials.html" crc="152170483" seo="true" mt="1459539847112" redirect="true"/>
+  <file name="index.html" crc="282364535" seo="true" mt="1459540167230" redirect="true"/>
+  <file name="musor.html" crc="204143718" seo="true" mt="1459540168878" redirect="true"/>
+  <file name="demontazh.html" crc="3950563996" seo="true" mt="1459540170698" redirect="true"/>
+  <file name="dop.html" crc="14510215" seo="true" mt="1459540172378" redirect="true"/>
+  <file name="materials.html" crc="4162500565" seo="true" mt="1459540173808" redirect="true"/>
   <file name="123.html" crc="3781811184" seo="true" mt="1459371523186" redirect="true"/>
 </manifest>
